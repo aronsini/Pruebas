@@ -5,6 +5,7 @@ Option Base 1
 '#----------------------------------ENUMERADORES---------------------------------------------#
 '#############################################################################################
 
+'SI ESTO APARECE ES QUE SE ACTUALIZA CORRECTAMENTE
 Public Enum zdt_Open_Source
     zdt_From_DB = 2
     zdt_From_ZP = 3

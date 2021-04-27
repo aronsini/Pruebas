@@ -1,3 +1,4 @@
+ESTA LÍNEA SOLO SE AGREGA COMO PRUEBA DE ACTUALIZACIÓN
 ''----------------------------------------------------------------------------------------
 'Librerias:
 'Verifica si determinado archivo existe y regresa un boleano

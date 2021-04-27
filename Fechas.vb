@@ -1,3 +1,4 @@
+'ESTA LÍNEA SOLO SE AGREGA COMO PRUEBA DE ACTUALIZACIÓN
 Option Explicit
 'Application.Text(DateValue(Fecha), "[$-es-MX]MMMDD;@")
 Public Function DiaLab(FechaInicial As Variant, Dias As Integer, Festivos As Range)
